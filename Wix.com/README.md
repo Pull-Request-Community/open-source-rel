@@ -12,7 +12,7 @@ _External Activities_:
 2. Projects Public Releases - It releases a lot of projects and useful pieces of code as OSS - https://github.com/wix
 There are Software Developers @ Wix that are assigned to maintain these projects on a daily basis and make sure they follow the Incubator standards.
 
-⋅⋅⋅_Internal Activities_:
+_Internal Activities_:
 1. OSS Contribution Guidelines - It created an internal GitHub repository for internal employees that solely deals with how to start and release an OSS project- it contains documentation and checklists that an employee could follow to make sure they know exactly what to do since the guidelines are clearly laid out for them to use.
 
 2. OSS Peripheral Support - It offers help with various aspects related to OSS -
