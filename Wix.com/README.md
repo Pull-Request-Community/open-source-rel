@@ -1,5 +1,7 @@
 # Wix & Open-Source
 
+![PR <3 WIX](https://github.com/Pull-Request-Community/open-source-rel/blob/main/Wix.com/Component%2095.png)
+
 Wix joins other great & well established companies like Microsoft, Google, IBM and more that understands that Open-Source has a key role in the tech landscape.
 Wix supports both established OSS projects (Libraries that are used internally) and non-established OSS projects (Libraries that are not directly used or rarely used internally) in their daily approach towards OSS.
 Established projects gets more attention and resources - Actively Managing their Discord communities, and assign internal resources upfront to maintain the projects, whereas non-established projects are being handled on a spare-time, guild-week / contribution days basis.
