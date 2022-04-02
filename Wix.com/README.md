@@ -1,6 +1,6 @@
 # Wix & Open-Source
 
-![PR <3 WIX](https://github.com/Pull-Request-Community/open-source-rel/blob/main/Wix.com/Component%2095.png)
+<img src="https://github.com/Pull-Request-Community/open-source-rel/blob/main/Wix.com/Component%2095.png" alt="PR <3 WIX" width="200"/>
 
 Wix joins other great & well established companies like Microsoft, Google, IBM and more that understands that Open-Source has a key role in the tech landscape.
 Wix supports both established OSS projects (Libraries that are used internally) and non-established OSS projects (Libraries that are not directly used or rarely used internally) in their daily approach towards OSS.
