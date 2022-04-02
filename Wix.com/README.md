@@ -6,7 +6,9 @@ Wix joins other great & well established companies like Microsoft, Google, IBM a
 Wix supports both established OSS projects (Libraries that are used internally) and non-established OSS projects (Libraries that are not directly used or rarely used internally) in their daily approach towards OSS.
 Established projects gets more attention and resources - Actively Managing their Discord communities, and assign internal resources upfront to maintain the projects, whereas non-established projects are being handled on a spare-time, guild-week / contribution days basis.
 
-**Wix actively contributing to the Open-Source realm in several ways:**
+
+
+## Wix actively contributing to the Open-Source realm in several ways:
 
 ### _External Activities_:
 1. Sponsorship - It decided to sponsor the 8 most used OSS libraries. To decide which libraries are the most used and contributed the most to the SW guilds, It conducted a survey that was spread over the entire company and requested a suggestion of libraries and have a vote for the libraries who contributed the most, according to the voters. Then, once the 8 libraries were selected - It started sponsoring them.
