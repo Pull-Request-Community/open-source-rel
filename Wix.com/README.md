@@ -20,11 +20,12 @@ there are Software Developers at Wix that are assigned to maintain these project
 1. OSS Contribution Guidelines - It created an internal GitHub repository for internal employees that solely deals with how to start and release an OSS project- it contains documentation and checklists that an employee could follow to make sure they know exactly what to do since the guidelines are clearly laid out for them to use.
 
 2. OSS Peripheral Support - It offers help with various aspects related to OSS -
-  ⋅⋅2.1 Documentation - Assigning technical writers to help with OSS documentation.
-  ⋅⋅2.2 Design & Branding - Helping to create a design language, logo and other branding elements for the OSS project.
-  ⋅⋅2.3 Licensing & Legal Compliance - Performing a license scan to make sure the project has minimal vulnerabilities and complies with OSS licensing requirements.
-  ⋅⋅2.4 Promotion - Utilizing tools to push the project to target audiences.
-  ⋅⋅2.5 Wix Public Migration - Transferring the project to Wix’s public library.
+
+    2.1 Documentation - Assigning technical writers to help with OSS documentation.  
+    2.2 Design & Branding - Helping to create a design language, logo and other branding elements for the OSS project.  
+    2.3 Licensing & Legal Compliance - Perform a license scan to make sure the project has minimal vulnerabilities & complies with OSS licensing requirements.  
+    2.4 Promotion - Utilizing tools to push the project to target audiences.  
+    2.5 Wix Public Migration - Transferring the project to Wix’s public library.  
 
 3. OSS Guild-Week Contribution - It holds guild-weeks in which employees can choose to contribute and engage in various activities which are not part of their day-to-day tasks. One of those guild-week tracks are OSS Contribution - Once in a quarter, an employee could choose this track and for an entire week, work on an OSS project to contribute to.
 
