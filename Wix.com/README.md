@@ -11,7 +11,7 @@ Established projects gets more attention and resources - Actively Managing their
 ## Wix actively contributing to the Open-Source realm in several ways:
 
 ### _External Activities_:
-1. Sponsorship - It decided to sponsor the 8 most used OSS libraries. To decide which libraries are the most used and contributed the most to the SW guilds, It conducted a survey that was spread over the entire company and requested a suggestion of libraries and have a vote for the libraries who contributed the most, according to the voters. Then, once the 8 libraries were selected - It started sponsoring them.
+1. Sponsorship - It decided to sponsor the 8 most used OSS libraries. To decide which libraries are the most used and contributed the most to the SW guilds, It conducted a survey that was spread over the entire company and requested its employees to suggest any libraries and later on have a vote for the suggested libraries to determine which libraries contributed the most, according to the voters. Then, once the 8 libraries were selected - Wix started sponsoring them.
 
 2. Projects Public Releases - It releases a lot of projects and useful pieces of code as OSS (you can see them in this [link](https://github.com/wix)) and 
 there are Software Developers at Wix that are assigned to maintain these projects on a daily basis to make sure they follow the Incubator standards.
@@ -20,11 +20,11 @@ there are Software Developers at Wix that are assigned to maintain these project
 1. OSS Contribution Guidelines - It created an internal GitHub repository for internal employees that solely deals with how to start and release an OSS project- it contains documentation and checklists that an employee could follow to make sure they know exactly what to do since the guidelines are clearly laid out for them to use.
 
 2. OSS Peripheral Support - It offers help with various aspects related to OSS -
-Documentation - Assigning technical writers to help with OSS documentation.
-Design & Branding - Helping to create a design language, logo and other branding elements for the OSS project.
-Licensing & Legal Compliance - Performing a license scan to make sure the project has minimal vulnerabilities and complies with OSS licensing requirements.
-Promotion - Utilizing tools to push the project to target audiences.
-Wix Public Migration - Transferring the project to Wix’s public library.
+  ⋅⋅2.1 Documentation - Assigning technical writers to help with OSS documentation.
+  ⋅⋅2.2 Design & Branding - Helping to create a design language, logo and other branding elements for the OSS project.
+  ⋅⋅2.3 Licensing & Legal Compliance - Performing a license scan to make sure the project has minimal vulnerabilities and complies with OSS licensing requirements.
+  ⋅⋅2.4 Promotion - Utilizing tools to push the project to target audiences.
+  ⋅⋅2.5 Wix Public Migration - Transferring the project to Wix’s public library.
 
 3. OSS Guild-Week Contribution - It holds guild-weeks in which employees can choose to contribute and engage in various activities which are not part of their day-to-day tasks. One of those guild-week tracks are OSS Contribution - Once in a quarter, an employee could choose this track and for an entire week, work on an OSS project to contribute to.
 
