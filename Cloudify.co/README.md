@@ -4,9 +4,10 @@
 
 Cloudify is an Open-Source orchestration platform that helps DevOps teams structure their environments and enable developer self-service.
 
-![Cloudify and Plugins](images/cloudify_plugins.png)
+<img src="https://raw.githubusercontent.com/Pull-Request-Community/open-source-rel/main/Cloudify.co/images/cloudify_plugins.png" alt="Cloudify and Plugins" width="28%" align="right"/>
 
 Cloudify Environment as a Service (EaaS) enables engineers to turn their existing Kubernetes, Helm, Terraform, etc. into self-service development and production environments.
+
 
 When asked why they utilize Open-Source as the main product’s vertical, Nati Shalom, CTO & Founder of Cloudify, replied:
 * **Disruption** - Open-Source is a very effective tool for a startup to disrupt a market that is highly dominated by non-open source incumbent players. In our case that was VMware or the public cloud providers (See [Summit 2017: A David vs. Goliath Tale of Triumph](https://www.reversim.com/2018/02/summit-2017-david-vs-goliath-tale-of.html)).
