@@ -23,6 +23,6 @@ Cloudify actively contributes to Open-Source in several ways:
 
 * The Cloudify architecture is pluggable. The Open-Source Cloudify manager can be further extended through the development of plugins. Cloudify open sources and [releases](https://github.com/orgs/cloudify-cosmo/repositories?q=plugin&type=all&language=&sort=) all of their officially supported plugins, which are written in Python. Users can also develop their own plugins and extend the resource library, the UI, and the automation language itself.
 
-* Cloudify provides an [Open-Source community](https://github.com/cloudify-community/) of blueprints and actively [accepts contributions](https://github.com/cloudify-community/contributing) of both plugins and blueprints from our community of users.
+* Cloudify provides an [Open-Source community](https://github.com/cloudify-community/) of blueprints and actively [accepts contributions](https://github.com/cloudify-community/contributing) of both plugins and blueprints from their community of users.
 
 * Cloudify designed and maintains the [Wagon packaging format](https://github.com/cloudify-cosmo/wagon) for bundling Python wheels together for offline installation. Wagon provides the ability to combine multiple Python wheels into a single archive that can be distributed in offline environments. While originally designed to work with Cloudify’s plugin architecture, Wagon packages can be used in any environment where distributing combined sets of offline Python wheels is necessary, such as in secure or limited environments.
