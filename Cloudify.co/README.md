@@ -1,6 +1,6 @@
 # Cloudify & Open Source
 
-<img src="https://raw.githubusercontent.com/Pull-Request-Community/open-source-rel/main/Cloudify.co/images/Cloudify_PR_banner.png" alt="PR <3 WIX" width="100%"/>
+<img src="https://raw.githubusercontent.com/Pull-Request-Community/open-source-rel/main/Cloudify.co/images/Cloudify_PR_banner.png" alt="PR <3 Cloudify" width="100%"/>
 
 Cloudify is an Open-Source orchestration platform that helps DevOps teams structure their environments and enable developer self-service.
 

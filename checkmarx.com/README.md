@@ -1,5 +1,6 @@
 # Checkmarx & Open Source
 
+<img src="https://raw.githubusercontent.com/Pull-Request-Community/open-source-rel/main/checkmarx.com/images/Checkmarx_PR_banner.png" alt="PR <3 Checkmarx" width="100%"/>
 
 [Checkmarx](https://checkmarx.com/) is a software security company that creates solutions to help developers build security-aware applications. Checkmarx has multiple solutions that integrate into the SDLC process - static code testing (SAST and IAST), dependency analysis (SCA), supply chain security (SCS), infrastructure as code security testing (KICS), and application security training (Codebashing).
 
