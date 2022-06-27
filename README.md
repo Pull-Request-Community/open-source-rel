@@ -7,3 +7,5 @@ In this repository, you'll find testimonies by companies, stating their vision a
 02/05/22 [Cloudify](https://github.com/Pull-Request-Community/open-source-rel/tree/main/Cloudify.co)
 
 14/05/22 [Checkmarx](https://github.com/Pull-Request-Community/open-source-rel/tree/main/checkmarx.com)
+
+27/06/22 [Livecycle](https://github.com/Pull-Request-Community/open-source-rel/blob/main/Livecycle)
