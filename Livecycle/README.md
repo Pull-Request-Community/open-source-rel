@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Pull-Request-Community/open-source-rel/main/Livecycle/images/Livecycle_PR_banner.png" alt="PR <3 Livecycle" width="100%"/>
 
-[Livecycle](https://livecycle.io) Livecycle is an inclusive collaboration platform that helps teams 10x the speed of PR reviews so they can ship code faster.
+[Livecycle](https://livecycle.io) is an inclusive collaboration platform that helps teams 10x the speed of PR reviews so they can ship code faster.
 
 Once Livecycle is installed on the Git repository, an ephemeral "playground" environment is created for every PR and commit, and is accessible with a single click. Each Livecycle playground has built-in annotation tools, so teammates can leave review comments in their full context on top of the product UI. The comments are organized in Livecycle and also synced back to Git so the code owners can understand and resolve the issues quickly and easily. 
 
