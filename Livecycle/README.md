@@ -14,6 +14,6 @@ Yshay adds that in an OSS context, this becomes [very powerful](https://livecycl
 
 In addition to the benefits of the product itself, Liveycle is also giving back to the OSS community in other ways:
 
-  - **Sponsorship** - They’ve decided as a company to support any open-source project that brings them value day-to-day, (a recent example of this is Chakra UI)
+  - **Sponsorship** - They’ve decided as a company to support any open-source project that brings them value day-to-day (a recent example of this is Chakra UI)
   - **Sponsorship advocacy** - They’ve also taken these efforts one step further and [openly encourage](https://livecycle.io/blogs/why-we-support-open-source-chakra/) other companies to do the same, and “give back” to the creators of the open-source tools that the community is benefiting from.
   - **[The Dev-X Project](https://livecycle.io/devx/)** - Livecycle’s growing DX community features leading developers from across the industry, with an emphasis on highlighting those who believe in the power and the importance of open-source.
