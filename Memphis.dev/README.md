@@ -1,3 +1,7 @@
+# Memphis.dev & Open Source
+
+<img src="https://raw.githubusercontent.com/Pull-Request-Community/open-source-rel/main/Memphis.dev/images/Memphis_PR_banner.png" alt="PR <3 Memphis.dev" width="100%"/>
+
 [Memphis.dev](https://memphis.dev "Memphis.dev") is an open-source, modern replacement for Apache Kafka, built out of the struggles of developers working with event-driven architectures, troubleshooting, and scaling. Memphis enables devs to get a fully-optimized message broker and achieve all other message brokers' benefits in a fraction of the time.
 
 When asked what Memphis's future would be in terms of open-source, **Idan Asulin, CTO & Co-Founder**, replied:
