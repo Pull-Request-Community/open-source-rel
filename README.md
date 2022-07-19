@@ -11,3 +11,5 @@ In this repository, you'll find testimonies by companies, stating their vision a
 27/06/22 [Livecycle](https://github.com/Pull-Request-Community/open-source-rel/blob/main/Livecycle)
 
 30/06/22 [Memphis.dev](https://github.com/Pull-Request-Community/open-source-rel/blob/main/Memphis.dev)
+
+18/07/22 [Armo](https://github.com/Pull-Request-Community/open-source-rel/blob/main/Armo)
