@@ -1,11 +1,12 @@
 # ARMO, Kubescape & Open-Source
-<p align="center">
-<img src="images/kubescape.png" alt="PR <3 Kubescape" width="200"/>
-</p>
+
+<img src="https://raw.githubusercontent.com/Pull-Request-Community/open-source-rel/main/Wix.com/images/Wix_PR_banner.png" alt="PR <3 Wix" width="100%"/>
 
 [ARMO](https://www.armosec.io/), the company behind [Kubescape](https://cloud.armosec.io/dashboard), is building the first end-to-end open-source Kubernetes Security platform (with their patented technology), made for DevOps, to ensure Kubernetes components are all secured E2E.
 
 Kubescape is a Kubernetes open-source platform providing a multi-cloud K8s single-pane-of-glass, including risk analysis, security compliance, misconfiguration scanning, RBAC visualizer, and image vulnerabilities scanning.
+
+<img src="https://raw.githubusercontent.com/Pull-Request-Community/open-source-rel/main/Armo/images/Kubescape.png" alt="Cloudify and Plugins" width="28%" align="right"/>
 
 ## Why is Kubescape open-sourced?
 
