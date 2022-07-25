@@ -6,7 +6,7 @@
 
 Kubescape is a Kubernetes open-source platform providing a multi-cloud K8s single-pane-of-glass, including risk analysis, security compliance, misconfiguration scanning, RBAC visualizer, and image vulnerabilities scanning.
 
-<img src="https://raw.githubusercontent.com/Pull-Request-Community/open-source-rel/main/Armo/images/Kubescape.png" alt="Cloudify and Plugins" width="28%" align="right"/>
+<img src="https://raw.githubusercontent.com/Pull-Request-Community/open-source-rel/main/Armo/images/kubescape.png" alt="Kubescape by Armo" width="28%" align="right"/>
 
 ## Why is Kubescape open-sourced?
 
