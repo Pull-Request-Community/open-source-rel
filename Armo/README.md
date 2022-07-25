@@ -8,12 +8,13 @@ Kubescape is a Kubernetes open-source platform providing a multi-cloud K8s singl
 
 <img src="https://raw.githubusercontent.com/Pull-Request-Community/open-source-rel/main/Armo/images/kubescape.png" alt="Kubescape by Armo" width="28%" align="right"/>
 
-## Why is Kubescape open-sourced?
+### Why is Kubescape open-sourced?
 
 ARMO believes that open-source can be a great game-changer for K8s security as it has been for many aspects of cloud-native, coding, and DevOps. When asked why ARMO is taking an open-source approach for Kubernetes security generally, [Shauli Rozen](https://www.linkedin.com/in/shaulirozen/), ARMO CEO & Co-Founder, answered: 
-Today, DevOps teams are being forced to choose: 
-Make an attempt to integrate several different and fragmented open-source tools together, which are pretty complex to monitor and manage, and require a large amount of effort to generate synergy. 
-Commit to a proprietary solution that they can’t adapt, access the code, influence the roadmap or contribute.”
+
+##### Today, DevOps teams are being forced to choose: 
+1. Make an attempt to integrate several different and fragmented open-source tools together, which are pretty complex to monitor and manage, and require a large amount of effort to generate synergy. 
+2. Commit to a proprietary solution that they can’t adapt, access the code, influence the roadmap or contribute.”
 That’s why they decided that their main product - Kubescape - should be open-sourced. On one hand, be the one-stop-shop, eliminating the need to integrate several different and fragmented tools, and on the other hand - Leverage what open-source can offer to enhance the product - Developers can collaborate and contribute to a broader range of issues, collecting more knowledge and expertise, eventually making K8s security much more resilient.  
 
 According to Shauli Rozen, “Kubernetes is open-source, and Kubernetes security should be open-sourced too, following the same culture of transparency and collaboration. Dev and DevOps teams want to adopt and enforce K8s security but in their own “DevOps”, OSS based, way like they are used to. ARMO is committed to making Kubernetes security - open-source, usable, transparent, and community-driven so everyone can benefit from – and contribute to – the most secure k8s platform available.”
