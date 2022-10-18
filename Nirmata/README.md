@@ -10,7 +10,10 @@ Kyverno was created by Nirmata in 2019 and donated to [Cloud Native Computing Fo
 
 ## Why is Kyverno open-sourced?
 
+<img src="https://raw.githubusercontent.com/Pull-Request-Community/open-source-rel/main/Nirmata/images/kyverno_logo.png" alt="Kyverno" width="20%" align="right"/>
+
 When asked why Kyverno was open-sourced, Jim replied, “Kubernetes is not secured by default, and over 80% of security incidents are caused by misconfigurations. Working with early adopters, Nirmata believes that native policies offer the best way to secure and automate Kubenetes, and hence should be available to all users. By growing Kubernetes usage and policy adoption, Nirmata and ecosystem vendors can offer value-added commercial capabilities to organizations that need features for collaboration and integrations. 
+
 
 Nirmata open-sourced Kyverno and donated it to the CNCF so that it is freely available to the entire Kubernetes community and ecosystem. This allows end users the peace of mind to pick a CNCF backed project that has a large and fast-growing community and is not a single vendor-led project.”
 
