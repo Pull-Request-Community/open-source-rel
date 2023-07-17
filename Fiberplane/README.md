@@ -7,9 +7,9 @@ A [Discord](https://discord.gg/6eZyhxFBmC) space for community interaction, ques
  [Autometrics](https://autometrics.dev/) is an open-source micro framework for developer-first observability. Its goal is to make it easy to instrument your code base and get metrics out of the box based on the functions in your code. From there, it helps you to generate SLOs and alerts. 
 
 
-It is build up on top of the open-source projects [Prometheus](https://prometheus.io/) and [OpenTelemetry](https://opentelemetry.io/).
+It is built on top of the open-source projects [Prometheus](https://prometheus.io/) and [OpenTelemetry](https://opentelemetry.io/).
 
-The micro framework is available for multiple languages. Fiberplane officially supports four languages (Python, TS, Go, and Rust), and there are community contributions for two languages (Java and C#). The language packages, IDE extensions, and shared sources are available in a dedicated [Autometrics-Dev GitHub organisation](https://github.com/autometrics-dev). There are [discussions on GitHub](https://github.com/orgs/autometrics-dev/discussions) for future development.In general, the whole development happens in the open, and besides the GitHub discussions, more conversations are taking place in the mentioned Discord space above. 
+The micro framework is available for multiple languages. Fiberplane officially supports four languages (Python, TS, Go, and Rust), and there are community contributions for two languages (Java and C#). The language packages, IDE extensions, and shared sources are in a dedicated [Autometrics-Dev GitHub organization](https://github.com/autometrics-dev). There are [discussions on GitHub](https://github.com/orgs/autometrics-dev/discussions) for future development. In general, the whole development happens in the open, and besides the GitHub discussions, more conversations are taking place in the mentioned Discord space above. 
 
 ### Why is Autometrics open source?
 The tool aims to make observability developer friendly. Hence making open-source, developers can contribute to this approach. 
@@ -21,13 +21,13 @@ Additionally, it is built on top of other open-source tools and uses those compo
 ## Fiberplane notebooks
 Fiberplane Notebooks is a SaaS solution that allows you to debug your infrastructure, resolve incidents and create runbooks collaboratively.
 
-Engineering teams can write queries within the notebooks and connect them to their observability data backends like Prometheus, Elastic Search, and Loki. Those are called Providers. The whole [provider stack is open-source](https://fiberplane.com/blog/opensourcing-providers). The open-source stack allows you to write own providers and create your own observability stack. Besides the providers, the [CLI tool fp](https://github.com/fiberplane/fp) and [Fiberplane template](https://github.com/fiberplane/templates) are open source too. All projects can be found in [Fiberplane's GitHub repo](https://github.com/fiberplane). 
+Engineering teams can write queries within the notebooks and connect them to their observability data backends like Prometheus, Elastic Search, and Loki. Those are called Providers. The whole [provider stack is open-source](https://fiberplane.com/blog/opensourcing-providers). The open-source stack allows you to write own providers and create your own observability stack. Besides the providers, the [CLI tool fp](https://github.com/fiberplane/fp) and [Fiberplane template](https://github.com/fiberplane/templates) are open source too. All projects are in [Fiberplane's GitHub repo](https://github.com/fiberplane). 
 
 
 ### Why are parts of Fiberplane notebooks open source?
-The main reason to provide open source components is to make Fiberplane notebooks exensible and flexible towards an integration with multiple tools and vendors. 
+The main reason for providing open-source components is to make Fiberplane notebooks extensible and flexible toward integrating multiple tools and vendors. 
 
-Further it benefits the community and generates a shared basis for example for useful Fiberplane templates. Further opening the provider stack allows people to understand how data is processed. It enables transparency and good quality when building Software.
+Further, it benefits the community and generates a shared basis for example, for useful Fiberplane templates. Further, opening the provider stack allows people to understand how data is processed. It enables transparency and good quality when building Software.
 
 
 ## Fiberplane's contribution to Open Source
