@@ -16,3 +16,4 @@ In this repository, you'll find testimonies by companies, stating their vision a
 
 18/10/22 [Nirmata](https://github.com/Pull-Request-Community/open-source-rel/blob/main/Nirmata)
 
+17/07/2022 [Fiberplane](https://github.com/Pull-Request-Community/open-source-rel/blob/main/Fiberplane)
